@@ -1,0 +1,77 @@
+provincia,canton,total_fincas,extension_hectareas,canton_key
+,Costa Rica,93017.0,2406418.4,COSTA RICA
+San José,Escazú,53.0,57.6,ESCAZÚ
+San José,Desamparados,1227.0,5315.5,DESAMPARADOS
+San José,Puriscal,1742.0,31095.3,PURISCAL
+San José,Tarrazú,1202.0,11759.7,TARRAZÚ
+San José,Aserrí,930.0,5564.7,ASERRÍ
+San José,Mora,601.0,6514.5,MORA
+San José,Goicoechea,91.0,1516.2,GOICOECHEA
+San José,Santa Ana,234.0,2005.6,SANTA ANA
+San José,Alajuelita,86.0,655.5,ALAJUELITA
+San José,Vázquez de Coronado,143.0,4173.7,VÁZQUEZ DE CORONADO
+San José,Acosta,1585.0,18173.0,ACOSTA
+San José,Tibás,3.0,4.3,TIBÁS
+San José,Moravia,98.0,533.0,MORAVIA
+San José,Montes de Oca,35.0,266.4,MONTES DE OCA
+San José,Turrubares,641.0,23381.4,TURRUBARES
+San José,Dota,665.0,14292.0,DOTA
+San José,Curridabat,22.0,204.3,CURRIDABAT
+San José,Pérez Zeledón,8059.0,97274.1,PÉREZ ZELEDÓN
+San José,León Cortés Castro,1405.0,5393.0,LEÓN CORTÉS CASTRO
+Alajuela,San Ramón,3412.0,39727.6,SAN RAMÓN
+Alajuela,Grecia,2020.0,24336.4,GRECIA
+Alajuela,San Mateo,460.0,9140.6,SAN MATEO
+Alajuela,Atenas,924.0,6004.8,ATENAS
+Alajuela,Naranjo,1472.0,8282.8,NARANJO
+Alajuela,Palmares,670.0,2209.9,PALMARES
+Alajuela,Poás,862.0,5921.7,POÁS
+Alajuela,Orotina,405.0,11350.5,OROTINA
+Alajuela,San Carlos,5093.0,215093.9,SAN CARLOS
+Alajuela,Zarcero,757.0,8930.6,ZARCERO
+Alajuela,Valverde Vega,792.0,8738.3,VALVERDE VEGA
+Alajuela,Upala,2949.0,77087.6,UPALA
+Alajuela,Los Chiles,1543.0,84993.5,LOS CHILES
+Alajuela,Guatuso,1732.0,51727.2,GUATUSO
+Cartago,Paraíso,1194.0,9320.9,PARAÍSO
+Cartago,La Unión,110.0,1756.2,LA UNIÓN
+Cartago,Jiménez,624.0,7380.4,JIMÉNEZ
+Cartago,Turrialba,3469.0,49438.7,TURRIALBA
+Cartago,Alvarado,860.0,4491.6,ALVARADO
+Cartago,Oreamuno,600.0,7248.6,OREAMUNO
+Cartago,El Guarco,582.0,3486.1,EL GUARCO
+Heredia,Barva,417.0,3221.5,BARVA
+Heredia,Santo Domingo,403.0,1100.5,SANTO DOMINGO
+Heredia,Santa Bárbara,379.0,2417.6,SANTA BÁRBARA
+Heredia,San RaFael,338.0,1955.7,SAN RAFAEL
+Heredia,San Isidro,337.0,1160.7,SAN ISIDRO
+Heredia,Belén,44.0,65.9,BELÉN
+Heredia,Flores,43.0,100.0,FLORES
+Heredia,San Pablo,77.0,283.2,SAN PABLO
+Heredia,Sarapiquí,2915.0,123544.6,SARAPIQUÍ
+Guanacaste,Liberia,650.0,88447.4,LIBERIA
+Guanacaste,Nicoya,1949.0,69690.1,NICOYA
+Guanacaste,Santa Cruz,1959.0,76065.9,SANTA CRUZ
+Guanacaste,Bagaces,883.0,58568.7,BAGACES
+Guanacaste,Carrillo,555.0,33865.1,CARRILLO
+Guanacaste,Cañas,444.0,61375.1,CAÑAS
+Guanacaste,Abangares,768.0,48854.6,ABANGARES
+Guanacaste,Tilarán,1138.0,45339.5,TILARÁN
+Guanacaste,Nandayure,757.0,39658.1,NANDAYURE
+Guanacaste,La Cruz,1072.0,49583.9,LA CRUZ
+Guanacaste,Hojancha,680.0,21194.4,HOJANCHA
+Puntarenas,Esparza,613.0,13514.5,ESPARZA
+Puntarenas,Buenos Aires,3307.0,126594.1,BUENOS AIRES
+Puntarenas,Montes de Oro,520.0,16058.8,MONTES DE ORO
+Puntarenas,Osa,1264.0,53454.4,OSA
+Puntarenas,Aguirre,362.0,25824.6,AGUIRRE
+Puntarenas,GolFito,1218.0,45636.4,GOLFITO
+Puntarenas,Coto Brus,3345.0,52104.6,COTO BRUS
+Puntarenas,Parrita,467.0,22169.4,PARRITA
+Puntarenas,Corredores,1355.0,44114.3,CORREDORES
+Puntarenas,Garabito,287.0,11430.9,GARABITO
+Limón,Pococí,2685.0,88697.0,POCOCÍ
+Limón,Siquirres,1488.0,46149.0,SIQUIRRES
+Limón,Talamanca,1594.0,31406.3,TALAMANCA
+Limón,Matina,800.0,26539.3,MATINA
+Limón,Guácimo,1019.0,27623.5,GUÁCIMO
